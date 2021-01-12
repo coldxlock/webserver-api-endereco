@@ -1,0 +1,17 @@
+{
+  "name": "api-cep",
+  "description": "Projeto API CEP",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Prisco Cleyton",
+      "email": "priscocleyton@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload" : {
+    "psr-4" : {
+      "App\\" : "App/"
+    }
+  }
+}

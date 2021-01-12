@@ -1,0 +1,5 @@
+
+
+======ENDPOINT
+GET    = /cep/:param1 						|	Retorna o Endereço pelo CEP   | OK
+GET    = /endereco/:param1/:param2/:param3 	| 	Retorna o Endereço Completo com o CEP pelo UF, Cidade, Rua    | OK
