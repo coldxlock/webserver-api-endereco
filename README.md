@@ -45,7 +45,7 @@ GET    = /endereco/:param1/:param2/:param3 	| 	Retorna o Endereço Completo pelo
 
 Utilize o postman com a seguinte url para consultar endereço pelo CEP. 
 Exemplo: 
-```http://localhost/api/WebServer/buscarCep.php?cep=64046902```
+```http://localhost/webserver-api-endereco/api/cep/64002690```
 
 Utilize o postman com a seguinte url para consultar endereço completo usando parte do mesmo (Estado/Cidade/Rua respectivamente). 
 Exemplo: 
